@@ -15,7 +15,7 @@ sections:
         style: button
 seo:
   type: stackbit_page_meta
-  title: Stackbit Exto Theme
+  title: abhishekajith.com
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
