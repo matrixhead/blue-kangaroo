@@ -23,7 +23,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: abhsihekajith.com
+      value: abhishekajith.com
       keyName: property
     - name: 'og:description'
       value: |
