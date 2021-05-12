@@ -13,17 +13,6 @@ sections:
         label: Let's talk
         url: /contact
         style: button
-  - type: section_posts
-    title: Latest from the Blog
-    section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - type: action
-        label: View Blog
-        url: blog
-        style: button
 seo:
   type: stackbit_page_meta
   title: Stackbit Exto Theme
