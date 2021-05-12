@@ -11,7 +11,7 @@ sections:
     actions:
       - type: action
         label: About me
-        url: /contact
+        url: /about
         style: button
 seo:
   type: stackbit_page_meta
