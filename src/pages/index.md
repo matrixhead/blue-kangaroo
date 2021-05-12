@@ -16,7 +16,8 @@ sections:
 seo:
   type: stackbit_page_meta
   title: abhishekajith.com
-  description: The preview of the Exto theme
+  description: |
+    Hi, I'm AbhishekAjith and this is my story.
   extra:
     - name: 'og:type'
       value: website
