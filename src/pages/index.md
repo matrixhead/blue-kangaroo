@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: abhsihekajith.com
+      value: abhishekajith.com
     - name: 'twitter:description'
       value: 'Hi, I''m AbhishekAjith and this is my story.'
     - name: 'twitter:image'
