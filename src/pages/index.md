@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/1.jpg
       relativeUrl: true
 template: advanced
 ---
