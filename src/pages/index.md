@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:title'
       value: abhsihekajith.com
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: 'Hi, I''m AbhishekAjith and this is my story.'
     - name: 'twitter:image'
       value: /images/1.jpg
       relativeUrl: true
