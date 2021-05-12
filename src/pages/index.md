@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions:
       - type: action
-        label: Let's talk
+        label: About me
         url: /contact
         style: button
 seo:
