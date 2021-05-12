@@ -12,7 +12,7 @@ sections:
       - type: action
         label: About me
         url: /about
-        style: icon
+        style: button
 seo:
   type: stackbit_page_meta
   title: abhishekajith.com
