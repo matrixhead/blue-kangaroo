@@ -26,7 +26,8 @@ seo:
       value: abhsihekajith.com
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: |
+        Hi, I'm AbhishekAjith and this is my story.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
