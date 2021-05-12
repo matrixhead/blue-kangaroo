@@ -43,7 +43,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img_alt": "dasdas"
     },
     "footer": {
         "type": "footer",
