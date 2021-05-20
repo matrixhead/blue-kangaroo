@@ -2,7 +2,7 @@
 title: Project Title 7
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
-thumb_image: images/7_thumb.jpg
+thumb_image: /images/abhishekajith__126295304_1265199480531812_6755299909697952666_n.jpg
 thumb_image_alt: A black headphones on a yeallow background
 image: images/7.jpg
 image_alt: A black headphones on a yeallow background
