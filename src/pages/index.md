@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: 'Hi, I''m AbhishekAjith and this is my story.'
+    title: AbhishekAjith
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
