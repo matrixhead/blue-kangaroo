@@ -2,7 +2,7 @@
 title: Project Title 1
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: /images/abhishekajith__13694942_1099680806785532_1734577811_n.jpg
+thumb_image: /images/abhishekajith__151833023_115400357199586_341390345225464841_n.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
