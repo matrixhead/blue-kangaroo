@@ -1,36 +1,36 @@
 ---
 title: Project Title 1
 subtitle: Optional Project Subtitle
-date: '2019-05-10'
+date: 2019-05-10
 thumb_image: /images/abhishekajith__151833023_115400357199586_341390345225464841_n.jpg
-thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
-image_alt: 'White, black, and red shoe sole'
+thumb_image_alt: White, black, and red shoe sole
+image: ""
+image_alt: White, black, and red shoe sole
 seo:
   type: stackbit_page_meta
   title: Project Title 1
   description: This is the project 1 description
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Project Title 1
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: This is the project 1 description
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Project Title 1
-    - name: 'twitter:description'
+    - name: twitter:description
       value: This is the project 1 description
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/1.jpg
       relativeUrl: true
 template: project
