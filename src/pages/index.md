@@ -5,9 +5,8 @@ sections:
   - type: section_hero
     title: AbhishekAjith
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: This section can contain a subtitle or tagline. The recommended length
+      is one to three sentences, but can be changed as you prefer.
     actions:
       - type: action
         label: About me
@@ -16,30 +15,29 @@ sections:
 seo:
   type: stackbit_page_meta
   title: abhishekajith.com
-  description: |
-    Hi, I'm AbhishekAjith and this is my story.
+  description: “Today everything exists to end in a photograph.” ― Susan Sontag
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: abhishekajith.com
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: |
         Hi, I'm AbhishekAjith and this is my story.
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: /images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: abhishekajith.com
-    - name: 'twitter:description'
-      value: 'Hi, I''m AbhishekAjith and this is my story.'
-    - name: 'twitter:image'
+    - name: twitter:description
+      value: Hi, I'm AbhishekAjith and this is my story.
+    - name: twitter:image
       value: /images/1.jpg
       relativeUrl: true
 template: advanced
